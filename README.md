@@ -30,3 +30,6 @@ Um programa simples em Java desenvolvido para praticar a entrada de dados e a ma
 3. Como o arquivo pertence ao pacote `com.example`, compile o código a partir do diretório raiz (antes da pasta `com`):
    ```bash
    javac com/example/Exercicios.java
+   ```
+   ```bash
+   git clone https://github.com/Leo300609/Exercicios_Array__e_Vetor_em_JAVA.git
