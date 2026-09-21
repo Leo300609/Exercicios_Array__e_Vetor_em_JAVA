@@ -1,20 +1,22 @@
-# Registro de Idades de Alunos em Java 🎓
+# Registro e Análise de Idades de Alunos em Java 🎓
 
-Um programa simples em Java desenvolvido para praticar a entrada de dados e a manipulação de arrays unidimensionais (vetores). O sistema interage com o usuário via terminal, solicita a idade de 5 alunos e, em seguida, exibe os dados armazenados.
+Um programa em Java desenvolvido para praticar a entrada de dados, manipulação de arrays dinâmicos e cálculos matemáticos básicos. O sistema permite ao usuário definir a quantidade de alunos, solicita as idades, armazena em um vetor e, por fim, exibe as idades individuais juntamente com a soma e a média total.
 
 ## 🚀 Funcionalidades
 
+- **Tamanho dinâmico:** O usuário define a quantidade de idades que serão registradas.
 - Leitura de dados via console utilizando a classe `Scanner`.
 - Armazenamento de valores em um **Array** de inteiros.
-- Iteração sobre os dados utilizando laços de repetição (`for`).
-- Exibição formatada das idades coletadas.
+- Cálculo automático da **soma** e da **média** das idades inseridas.
+- Exibição formatada dos dados coletados e dos resultados matemáticos.
 
 ## 🛠️ Tecnologias e Conceitos Utilizados
 
 - **Java**
 - Lógica de Programação
-- Arrays
+- Arrays Unidimensionais (Vetores dinâmicos)
 - Estruturas de Repetição (`for`)
+- Operadores Aritméticos
 - Tratamento de Entrada e Saída (I/O)
 
 ## 💻 Como executar o projeto
@@ -25,11 +27,6 @@ Um programa simples em Java desenvolvido para praticar a entrada de dados e a ma
 
 ### Passo a passo (Via Terminal)
 
-1. Clone o repositório ou baixe o arquivo `Exercicios.java`.
-2. Abra o terminal e navegue até a pasta onde o arquivo se encontra.
-3. Como o arquivo pertence ao pacote `com.example`, compile o código a partir do diretório raiz (antes da pasta `com`):
+1. Clone o repositório para a sua máquina:
    ```bash
-   javac com/example/Exercicios.java
-   ```
-   ```bash
-   git clone https://github.com/Leo300609/Exercicios_Array__e_Vetor_em_JAVA.git
+   git clone [https://github.com/Leo300609/Exercicios_Array__e_Vetor_em_JAVA.git](https://github.com/Leo300609/Exercicios_Array__e_Vetor_em_JAVA.git)
