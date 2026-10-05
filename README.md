@@ -29,4 +29,4 @@ Um programa em Java desenvolvido para praticar a entrada de dados, manipulação
 
 1. Clone o repositório para a sua máquina:
    ```bash
-   git clone [https://github.com/Leo300609/Exercicios_Array__e_Vetor_em_JAVA.git](https://github.com/Leo300609/Exercicios_Array__e_Vetor_em_JAVA.git)
+   git clone https://github.com/Leo300609/Exercicios_Array__e_Vetor_em_JAVA.git
